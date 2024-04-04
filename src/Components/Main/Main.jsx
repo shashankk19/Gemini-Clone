@@ -55,7 +55,7 @@ const Main = () => {
               </div>
               <div className="card">
                 <p onClick={() => onSent("What is SpringBoot")}>
-                  What is SpringBoot
+                  How to build ATS friendly resume
                 </p>
                 <img src={assets.code_icon} alt="" />
               </div>
